@@ -5,14 +5,6 @@ namespace CleanupRagdollOnStart
 {
     public class EventsHandler
     {
-        internal EventsHandler plugin;
-        private CustomSpawnForKonoara customSpawnForKonoara;
-
-        public EventsHandler(CustomSpawnForKonoara customSpawnForKonoara)
-        {
-            this.customSpawnForKonoara = customSpawnForKonoara;
-        }
-
         private void Cleaning()
         {
             Map.CleanAllRagdolls();
@@ -35,3 +27,4 @@ namespace CleanupRagdollOnStart
         }
     }
 }
+
