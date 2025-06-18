@@ -7,25 +7,20 @@
 **A simple EXILED plugin (v9.6.0)** that clears all ragdolls from the map when a new round starts.  
 Built for **SCP: Secret Laboratory Roleplay (RP)** servers to keep the environment clean and immersive.
 
----
 
-## ✨ Features
+## Features
 
-- 🧼 Automatically removes *all dead bodies* at the start of every round
-- 🎭 Keeps your map clean for roleplay immersion
-- ⚡ Lightweight & plug-and-play
+-  Automatically removes *all dead bodies* at the start of every round
+-  Keeps your map clean for roleplay immersion
+-  Lightweight & plug-and-play
 
----
-
-## 📦 Installation
+##  Installation
 
 1. Download the latest `.dll` from the [Releases page](https://github.com/Konoaru384/CleanupRagdollOnRoundStart/releases)
 2. Drop it into your `Plugins` folder inside your server directory
 3. Restart your server — and boom, it's clean ✨
 
----
-
-## ⚙️ Configuration (Optional)
+## Configuration (Optional)
 
 If your plugin includes a `config.yml`, it might look like this:
 
