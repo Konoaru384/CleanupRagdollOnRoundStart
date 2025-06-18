@@ -3,6 +3,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Konoaru384/CleanupRagdollOnRoundStart/total?style=for-the-badge)
 ![Version](https://img.shields.io/badge/EXILED-9.6.0-blueviolet?style=for-the-badge)
 ![Made for RP](https://img.shields.io/badge/RP%20Friendly-%E2%9C%94-lightgreen?style=for-the-badge)
+[![Join us on Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/vxGeGFr5Bc)
 
 **A simple EXILED plugin (v9.6.0)** that clears all ragdolls from the map when a new round starts.  
 Built for **SCP: Secret Laboratory Roleplay (RP)** servers to keep the environment clean and immersive.
