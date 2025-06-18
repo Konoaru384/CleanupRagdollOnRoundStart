@@ -1,6 +1,6 @@
 # 🧹 Cleanup Ragdoll On Round Start
 
-![Downloads](https://img.shields.io/github/downloads/Konoaru384/CleanupRagdollOnRoundStart/total?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/Konoaru384/sha256:0c8c5e34d56615cbebea85055bf8e160b69f68ff2c2f4df649e1b340c1956d00/total?style=for-the-badge)
 ![Version](https://img.shields.io/badge/EXILED-9.6.0-blueviolet?style=for-the-badge)
 ![Made for RP](https://img.shields.io/badge/RP%20Friendly-%E2%9C%94-lightgreen?style=for-the-badge)
 
