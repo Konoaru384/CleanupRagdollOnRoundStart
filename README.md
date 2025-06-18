@@ -11,7 +11,7 @@ Built for **SCP: Secret Laboratory Roleplay (RP)** servers to keep the environme
 ## Features
 
 -  Automatically removes *all dead bodies* at the start of every round
--  Keeps your map clean for roleplay immersion
+-  Keeps your map clean when start for roleplay immersion
 -  Lightweight & plug-and-play
 
 ##  Installation
@@ -20,12 +20,9 @@ Built for **SCP: Secret Laboratory Roleplay (RP)** servers to keep the environme
 2. Drop it into your `Plugins` folder inside your server directory
 3. Restart your server — and boom, it's clean ✨
 
-## Configuration (Optional)
-
-If your plugin includes a `config.yml`, it might look like this:
+## Configuration
 
 ```yaml
 custom_spawn_for_konoara:
   is_enabled: true
   debug: false
-  max_custom_spawns: 5
