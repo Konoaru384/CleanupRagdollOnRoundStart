@@ -1,4 +1,4 @@
-﻿using Exiled.API.Features;
+using Exiled.API.Features;
 using ServerEvents = Exiled.Events.Handlers.Server;
 
 namespace CleanupRagdollOnStart
@@ -7,11 +7,6 @@ namespace CleanupRagdollOnStart
     {
         internal EventsHandler plugin;
         private CustomSpawnForKonoara customSpawnForKonoara;
-
-        public EventsHandler(EventsHandler plugin)
-        {
-            this.plugin = plugin;
-        }
 
         public EventsHandler(CustomSpawnForKonoara customSpawnForKonoara)
         {
