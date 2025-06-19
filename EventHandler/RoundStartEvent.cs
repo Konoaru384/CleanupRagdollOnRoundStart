@@ -1,4 +1,4 @@
-﻿using Exiled.API.Features;
+using Exiled.API.Features;
 
 namespace Cleanup_Ragdoll_On_Start.EventHandler
 {
