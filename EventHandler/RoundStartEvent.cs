@@ -12,7 +12,7 @@ namespace Cleanup_Ragdoll_On_Start.EventHandler
         public static void Cleaning()
         {
             Map.CleanAllRagdolls();
-            Log.Debug("Ragdolls cleared.");
+            Log.Debug("Ragdolls cleared ! If any error please report them here : https://discord.gg/vxGeGFr5Bc.");
         }
     }
 }
