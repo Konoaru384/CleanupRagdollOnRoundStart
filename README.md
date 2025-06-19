@@ -28,6 +28,6 @@ Built for **SCP: Secret Laboratory Roleplay (RP)** servers to keep the environme
 ## Configuration
 
 ```yaml
-custom_spawn_for_konoara:
+Cleanup_Ragdoll_On_Start:
   is_enabled: true
   debug: false
